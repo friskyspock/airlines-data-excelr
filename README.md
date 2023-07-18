@@ -1,4 +1,4 @@
-# airlines-data-excelr
+# Airlines passengers
 Assignment for clustering algorithms
 
 ### Problem Statements
